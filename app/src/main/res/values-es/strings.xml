@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_name">tu nombre:</string>
+    <string name="lbl_hint">escribe aquí</string>
+    <string name="lbl_button_send">enviar</string>
+    <string name="write_your_message">escribe tu nombre porfa</string>
+    <string name="welcome_message">Hola %s ! bienvenidos </string>
+</resources>
